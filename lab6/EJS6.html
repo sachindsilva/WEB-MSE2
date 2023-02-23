@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lab6-EJS6</title>
+</head>
+
+<body>
+    <p>Current Date :<span id="para"></span>
+    </p>
+    <button onclick="displayDate()">Date</button>
+    <script>
+        function displayDate() {
+            document.getElementById("para").innerHTML = Date();
+            document.getElementById("para").style.color="green";
+        }
+    </script>
+</body>
+
+</html>
