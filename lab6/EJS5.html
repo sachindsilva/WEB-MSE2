@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <p id="para">This is paragraph is visible to you.</p>
+    <button onclick="hideText()" style="cursor:pointer">Hide Text</button>
+    <button onclick="unHideText()" style="cursor:pointer">Unhide Text</button>
+    <script>
+        function hideText(){
+            document.getElementById("para").style.display="none";
+        }
+        function unHideText(){
+            document.getElementById("para").style.display="block";
+        }
+    </script>
+</body>
+</html>

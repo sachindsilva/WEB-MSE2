@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab6-EJS4</title>
+</head>
+<body>
+    <h1 id="heading" style="font-size:20px">Currently the font size of this heading is '20px'.</h1>
+    <button onclick="changeFontSize()">Change Size</button>
+    <script>
+        function changeFontSize(){
+            document.getElementById("heading").innerHTML="Currently the font size of this heading is '50px'."
+            document.getElementById("heading").style.fontSize="50px";
+            document.getElementById("heading").style.color="red";
+        }
+    </script>
+</body>
+</html>
