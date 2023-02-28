@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Keyup Event</title>
+
+</head>
+
+<body>
+    <h4>Keyboard Event : keyup</h4>
+    <!-- Key down Event  -->
+    <p><em> When a key is pressed and released, 'onkeyup' event is triggered which changes the background color to <span style="color:red;">red.  </span></em></p>
+    <input type="text"  id="input-text" onkeyup="changeBackground(this)">
+    <script>
+        function changeBackground(change){
+            change.style.backgroundColor="red";
+        }
+    </script>
+</body>
+
+</html>

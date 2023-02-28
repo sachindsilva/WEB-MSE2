@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Onchange Event</title>
+</head>
+<body>
+    <p>Select your branch :</p>
+    <select id="select-option" onchange="displayValue()">
+        <option value="ISE">Information Science</option>
+        <option value="CSE">Computer Science</option>
+        <option value="Mech">Mechanical Engieering</option>
+        <option value="EEE">Electrical Engineering</option>
+        <option value="AIML">Artificial Intelligence & Machine Learning</option>
+    </select>
+    <script>
+        function displayValue(){
+            var selectValue=document.getElementById("select-option").value;
+        }
+    </script>
+</body>
+</html>

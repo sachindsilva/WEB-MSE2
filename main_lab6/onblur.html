@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>onblur event</title>
+
+</head>
+
+<body>
+    <h4>Mouse Event : onblur</h4>
+    <!-- Key down Event  -->
+    <input type="text"  id="input-text" onblur="handleEvent()">
+    <script>
+
+        function handleEvent(){
+            var inputValue=document.getElementById("input-text").value;
+            document.getElementById("input-text").value=inputValue.toUpperCase();
+        }
+        
+    </script>
+</body>
+
+</html>

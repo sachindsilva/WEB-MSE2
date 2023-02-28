@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Keydown Event</title>
+
+</head>
+
+<body>
+    <h4>Keyboard Event : keydown</h4>
+    <!-- Key down Event  -->
+    <p><em> When you type something inside the input tag the background of it will be changed to <span style="color:green;">green.  </span></em></p>
+    <input type="text"  id="input-text" onkeydown="changeBackground(this)">
+    <script>
+        function changeBackground(change){
+            change.style.backgroundColor="green";
+        }
+    </script>
+</body>
+
+</html>
