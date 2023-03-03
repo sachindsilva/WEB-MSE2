@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Calculator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <fieldset id="field-dimensions">
+      <legend>Simple Calculator</legend>
+
+      <label for="first-number">Enter first number </label>
+      <input
+        type="number"
+        name="first-number"
+        id="first-number"
+        onchange="getFirstValue()"
+        onclick="clearInput(this)"
+      />
+
+      <label for="first-number">Enter second number</label>
+      <input
+        type="number"
+        name="second-number"
+        id="second-number"
+        onchange="getSecondValue()"
+        onclick="clearInput(this)"
+      />
+
+      <div class="buttons">
+        <button id="add" onclick="displayValue(this)">+</button>
+        <button id="subtract" onclick="displayValue(this)">-</button>
+        <button id="multiply" onclick="displayValue(this)">*</button>
+        <button id="divide" onclick="displayValue(this)">/</button>
+      </div>
+      <label for="result-value">Result</label>
+      <input type="number" id="result" name="result-value" readonly />
+    </fieldset>
+    <script src="calculator.js"></script>
+  </body>
+</html>
