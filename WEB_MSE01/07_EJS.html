@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <h3 style="text-align:center;color:gray;">Demonstration of Mouse : Double Click Event</h3>
+    <p style="text-align:center;"></p>
+    <button style="width:100px;height:20px;display:block;margin:auto;border:2px solid black;border-radius:6px;cursor:pointer;" ondblclick="displayPara()">Double Click</button>
+    <script>
+        function displayPara(){
+            document.querySelector("p").innerHTML="You clicked me twice..!!"
+        }
+    </script>
+</body>
+</html>
