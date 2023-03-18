@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>MouseEvent : focus</title>
+</head>
+
+<body>
+
+    <div style="margin:40px 50px;">
+        <label for="your-name">Enter your name :</label>
+        <input type="text" onfocus="changeToRed(this)" onfocusout="changeToGreen(this)">
+    </div>
+    <p style="margin:10px 50px;text-align:center;">When the mouse is hovered in on the input field, the background-color
+        changes to red and when the mouse is hovered out from the input field, the background-color changes to green.
+    </p>
+    <script>
+        function changeToRed(bgColor){
+            bgColor.style.backgroundColor="red";
+        }
+
+        function changeToGreen(bgColor){
+            bgColor.style.backgroundColor="green";
+        }
+    </script>
+
+</body>
+
+</html>

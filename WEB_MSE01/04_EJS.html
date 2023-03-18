@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mouse Event : onmouse</title>
+</head>
+<body style="background:url(https://www.technewstoday.com/wp-content/uploads/2022/11/left-mouse-click-not-working.jpg) no-repeat center center/cover;height:90vh;">
+    <button onmousedown="changeToGreen()" onmouseup="changeToBlue()" style="cursor:pointer;">Click Me</button>
+    <script>
+        function changeToGreen(){
+            document.body.style.background="green";
+        }
+
+        function changeToBlue(){
+            document.body.style.background="blue";
+        }
+    </script>
+</body>
+</html>
