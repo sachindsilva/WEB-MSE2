@@ -4,6 +4,7 @@
 following operations: sum, product, difference and quotient.
 
 <div>
+  <strong>Link : </strong>
   <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/01_EJS.html">Simple Calculator</a>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/01.png">
@@ -15,6 +16,7 @@ numbers from 0 to 10 and outputs HTML text that displays the resulting
 values in an HTML Table format
 
 <div>
+  <strong>Link : </strong>
   <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/02_EJS.html">Squares, Cubes and its Roots</a>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/02.png">
@@ -25,6 +27,7 @@ values in an HTML Table format
 and then gives them 5 chances to guess the square of the number
 
 <div>
+  <strong>Link : </strong>
   <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/03_EJS.html">Guess Square</a>
  </div>
 
@@ -33,6 +36,7 @@ and then gives them 5 chances to guess the square of the number
 green over onmousedown and it changes the background color to blue
 over onmouseup event.
 <div>
+  <strong>Link : </strong>
   <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/04_EJS.html">Mouse Event : onmousedown | onmouseup</a>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/04.png">
@@ -43,6 +47,7 @@ over onmouseup event.
 after clicking the button
 
 <div>
+  <strong>Link : </strong>
   <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/05_EJS.html">Mouse Event : onclick</a>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/05.png">
@@ -54,6 +59,7 @@ red when the user brought the focus to the object and change the color
 to green when the user has left the focus on the object.
 
 <div>
+  <strong>Link : </strong>
   <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/06_EJS.html">Mouse Event : onfocus | onfocusout</a>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/06.png">
@@ -65,6 +71,7 @@ to green when the user has left the focus on the object.
 of the mouse.
 
 <div>
+  <strong>Link : </strong>
   <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/07_EJS.html">Mouse Event : double click</a>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/07.png">
