@@ -1,5 +1,11 @@
 ## `Web Programming Lab - MSE1 Programs`
 
+<div>
+  
+<img src="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/gh-pages/logos/zip.png?raw=true" height="18" width="18" style="margin-right:8px;"><strong><a href="">Download all source codes</a></strong>
+
+</div>
+
 > 1. Design a web page with HTML describing your department use paragraph
 and list tags. Apply suitable colors to distinguish keywords, font style like
 italic, underline. Create link on the word like WiFi and LAN. Insert an
