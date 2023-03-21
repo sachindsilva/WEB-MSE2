@@ -54,8 +54,8 @@ format.
 following operations: sum, product, difference and quotient.
 
 <div>
-  <strong>Link : </strong>
-  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/01_EJS.html">Simple Calculator</a>
+  <strong>Link : 
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/01_EJS.html">Simple Calculator</a></strong>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/01.png">
   </div>
@@ -66,8 +66,8 @@ numbers from 0 to 10 and outputs HTML text that displays the resulting
 values in an HTML Table format
 
 <div>
-  <strong>Link : </strong>
-  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/02_EJS.html">Squares, Cubes and its Roots</a>
+  <strong>Link :
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/02_EJS.html">Squares, Cubes and its Roots</a></strong>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/02.png">
   </div>
@@ -77,8 +77,8 @@ values in an HTML Table format
 and then gives them 5 chances to guess the square of the number
 
 <div>
-  <strong>Link : </strong>
-  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/03_EJS.html">Guess Square</a>
+  <strong>Link : 
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/03_EJS.html">Guess Square</a></strong>
  </div>
 
 
@@ -86,8 +86,8 @@ and then gives them 5 chances to guess the square of the number
 after clicking the button
 
 <div>
-  <strong>Link : </strong>
-  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/05_EJS.html">Mouse Event : onclick</a>
+  <strong>Link : 
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/05_EJS.html">Mouse Event : onclick</a></strong>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/05.png">
   </div>
@@ -97,8 +97,8 @@ after clicking the button
 green over onmousedown and it changes the background color to blue
 over onmouseup event.
 <div>
-  <strong>Link : </strong>
-  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/04_EJS.html">Mouse Event : onmousedown | onmouseup</a>
+  <strong>Link :
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/04_EJS.html">Mouse Event : onmousedown | onmouseup</a></strong>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/04.png">
   </div>
@@ -111,8 +111,8 @@ red when the user brought the focus to the object and change the color
 to green when the user has left the focus on the object.
 
 <div>
-  <strong>Link : </strong>
-  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/06_EJS.html">Mouse Event : onfocus | onfocusout</a>
+  <strong>Link :
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/06_EJS.html">Mouse Event : onfocus | onfocusout</a></strong>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/06.png">
   </div>
