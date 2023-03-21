@@ -8,9 +8,9 @@ top of the page.
 
 <div>
   <strong>Link : 
-  <a href="">NMAMIT Page</a></strong>
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/main/WEB_MSE01/nmamit_page.html">NMAMIT Page</a></strong>
   <div>
-  <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/">
+  <img src="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/main/WEB_MSE01/img/nmamit_page.png">
   </div>
  </div>
  
@@ -19,9 +19,9 @@ top of the page.
 (using HTML)
 
 <strong>Link : 
-  <a href="">Curriculum Vitaé (Bio Data)</a></strong>
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/main/WEB_MSE01/cv.html">Curriculum Vitaé (Bio Data)</a></strong>
   <div>
-  <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/">
+  <img src="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/main/WEB_MSE01/img/cv.png">
   </div>
  </div>
 
@@ -29,9 +29,9 @@ top of the page.
 format.
 
 <strong>Link : 
-  <a href="">ISE Time-Table</a></strong>
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/main/WEB_MSE01/ise_time_table.html">ISE Time-Table</a></strong>
   <div>
-  <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/">
+  <img src="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/main/WEB_MSE01/img/ise_tt.png">
   </div>
  </div>
 
@@ -40,7 +40,7 @@ format.
 <strong>Link : 
   <a href="">Chocolate Table</a></strong>
   <div>
-  <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/">
+  <img src="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/main/WEB_MSE01/img/chocolate.png">
   </div>
  </div>
 
