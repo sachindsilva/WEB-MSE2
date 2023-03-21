@@ -123,8 +123,8 @@ to green when the user has left the focus on the object.
 of the mouse.
 
 <div>
-  <strong>Link : </strong>
-  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/07_EJS.html">Mouse Event : double click</a>
+  <strong>Link :
+  <a href="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/07_EJS.html">Mouse Event : double click</a> </strong>
   <div>
   <img src="https://github.com/sachindsilva16/WebP-Lab-Code/blob/main/WEB_MSE01/img/07.png">
   </div>
