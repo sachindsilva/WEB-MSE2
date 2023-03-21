@@ -2,7 +2,7 @@
 
 <div>
   
-<h3><img src="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/gh-pages/logos/zip.png?raw=true" height="18" width="18" style="margin-right:4px;"><a href="https://sachindsilva16.github.io/WebP-Lab-Codes/WEB_MSE01.rar">Download all source codes here </a> </h3>⬅️
+<h3><img src="https://github.com/sachindsilva16/WebP-Lab-Codes/blob/gh-pages/logos/zip.png?raw=true" height="18" width="18" style="margin-right:4px;"><a href="https://sachindsilva16.github.io/WebP-Lab-Codes/WEB_MSE01.rar">Download All Source Codes Here 👈 </a></h3>
 
 </div>
 
