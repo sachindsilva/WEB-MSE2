@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>ISE-Time Table</title>
+  </head>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-size: 20px;
+      font-family: sans-serif;
+    }
+
+    .container {
+      /* border: 2px solid red; */
+      height: 50%;
+      width: 82%;
+      margin: 50px auto 6px auto;
+      padding: 20px 20px 20px 20px;
+    }
+
+    .headings {
+      margin: 10px 10px 36px 10px;
+      padding: 0;
+      text-align: center;
+    }
+
+    img {
+      width: 433px;
+      height: 59px;
+      filter: grayscale(100%);
+    }
+
+    .sub-heading-1 {
+      font-size: 25px;
+      margin: 5px 0px 0px 0px;
+      background-color: #747474;
+      color: white;
+      border-radius: 6px;
+      display: inline-block;
+      padding: 0px 4px;
+    }
+    span {
+      font-size: 25px;
+      margin: 5px 0px;
+      background-color: #747474;
+      color: white;
+      border-radius: 6px;
+      padding: 0px 4px;
+    }
+
+    table {
+      border: 1px solid black;
+      border-collapse: collapse;
+      width: 100%;
+      padding: 6px 6px;
+      text-align: center;
+    }
+
+    .table-header {
+      height: 68px;
+    }
+
+    .table-content {
+      /* border: 2px solid red; */
+      height: 47%;
+      width: 82%;
+      margin: 2px auto;
+      padding: 20px 20px 20px 20px;
+      text-align: center;
+    }
+    .content-header {
+      height: 49px;
+    }
+
+    th,
+    td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 6px 6px;
+      text-align: center;
+    }
+
+    th {
+      background-color: #b7b7b7;
+      font-weight: 700;
+    }
+
+    li {
+      list-style: none;
+    }
+  </style>
+  <body>
+    <div class="container">
+      <div class="headings">
+        <img src="nmamit.png" alt="nmamit-college" />
+        <div class="sub-headings">
+          <h1 class="sub-heading-1">
+            Department of Information Science & Engineering
+          </h1>
+          <h1 class="sub-heading-1">Time Table - Even Semester 2022 - 2023</h1>
+          <h1 class="sub-heading-2">
+            <span>VI Semester</span>
+            <span>Section : C</span>
+            <span>Class Advisors : Mr.Santhosh S, Ms.Deepa</span>
+            <span>Room No : LH504</span>
+          </h1>
+        </div>
+      </div>
+      <table>
+        <thead class="table-header">
+          <th>Time/Day</th>
+          <th>9.00-9.55</th>
+          <th>9.55-10.50</th>
+          <th>11.10-12.05</th>
+          <th>12.05-1.00</th>
+          <th>1.00-1.55</th>
+          <th>1.55-2.50</th>
+          <th>2.50-3.40</th>
+          <th>3.40-4.30</th>
+        </thead>
+        <tbody>
+          <tr>
+            <th>MON</th>
+            <td colspan="2">ML LAB</td>
+            <td>CD</td>
+            <td>CN</td>
+            <td rowspan="6">
+              <div>
+                <ul>
+                  <li>L</li>
+                  <li>U</li>
+                  <li>N</li>
+                  <li>C</li>
+                  <li>H</li>
+                  <li>B</li>
+                  <li>R</li>
+                  <li>E</li>
+                  <li>A</li>
+                  <li>K</li>
+                </ul>
+              </div>
+            </td>
+            <td>E2</td>
+            <td>E3</td>
+            <td>ESD</td>
+          </tr>
+          <tr>
+            <th>TUE</th>
+            <td>ML</td>
+            <td>CN</td>
+            <td colspan="2">WP LAB</td>
+            <td></td>
+            <td colspan="2">MOOC</td>
+          </tr>
+          <tr>
+            <th>WED</th>
+            <td>CN</td>
+            <td>ML</td>
+            <td colspan="2">CN LAB</td>
+            <td colspan="3">IOT</td>
+          </tr>
+          <tr>
+            <th>THU</th>
+            <td>E3</td>
+            <td>E2</td>
+            <td>ML</td>
+            <td>CD</td>
+            <td colspan="2">WP LAB</td>
+            <td></td>
+          </tr>
+          <tr>
+            <th>FRI</th>
+            <td>E2</td>
+            <td>E3</td>
+            <td>CD</td>
+            <td>CN</td>
+            <td colspan="2">Mini Project</td>
+            <td></td>
+          </tr>
+          <tr>
+            <th>SAT</th>
+            <td colspan="4">Department Activity</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="table-content">
+      <table>
+        <thead class="content-header">
+          <th>Course Code</th>
+          <th>Course</th>
+          <th>Course Title</th>
+          <th colspan="2">Faculty</th>
+        </thead>
+        <tbody>
+          <tr>
+            <td>20IS601</td>
+            <td>WP</td>
+            <td>Web Programming</td>
+            <td colspan="2">Ms.Anusha N</td>
+          </tr>
+          <tr>
+            <td>20IS602</td>
+            <td>CN</td>
+            <td>Computer Networks</td>
+            <td colspan="2">Mr.Santhose S</td>
+          </tr>
+          <tr>
+            <td>20IS603</td>
+            <td>CD</td>
+            <td>Compiler Design</td>
+            <td colspan="2">Ms.Preethi Salian K</td>
+          </tr>
+          <tr>
+            <td>20IS605</td>
+            <td>ML</td>
+            <td>Machine Learning</td>
+            <td colspan="2">Dr.Manjula Gururaj Rao</td>
+          </tr>
+          <tr>
+            <td>20ISE11</td>
+            <td>E2/ISM</td>
+            <td>Information Storage Management</td>
+            <td colspan="2">Ms.Alaka Ananth</td>
+          </tr>
+          <tr>
+            <td>20ISE74</td>
+            <td>E2/CV</td>
+            <td>Computer Vision</td>
+            <td colspan="2">Dr.Bala Sunil Kamath</td>
+          </tr>
+          <tr>
+            <td>20ISE35</td>
+            <td>E2/UID</td>
+            <td>User Interface Design</td>
+            <td colspan="2">Dr.Ashwini B</td>
+          </tr>
+          <tr>
+            <td>20ISE51</td>
+            <td>E2/IOT</td>
+            <td>Internet of Things</td>
+            <td colspan="2">Dr.Jason Elroy Martis</td>
+          </tr>
+          <tr>
+            <td>20ISE93</td>
+            <td>E2/OR</td>
+            <td>Operation Research</td>
+            <td colspan="2">Dr.Karuna Pandit</td>
+          </tr>
+          <tr>
+            <td>20ISE21</td>
+            <td>E3/SPM</td>
+            <td>Software Project Management</td>
+            <td colspan="2">Mr.Santhosh S</td>
+          </tr>
+          <tr>
+            <td>20ISE44</td>
+            <td>E3/BIA</td>
+            <td>Business Intelligence and its Applications</td>
+            <td colspan="2">Mr.Balaji N</td>
+          </tr>
+          <tr>
+            <td>20ISE61</td>
+            <td>E3/CSCL</td>
+            <td>Cyber Security and Cyber Laws</td>
+            <td colspan="2">Ms.Tanzila Nargis</td>
+          </tr>
+          <tr>
+            <td>20ISE105</td>
+            <td>E3/GCE</td>
+            <td>Architecting with Google Compute Engine</td>
+            <td colspan="2">Dr.Balasubramani R</td>
+          </tr>
+          <tr>
+            <td>Coursera</td>
+            <td>MOOC</td>
+            <td>Introduction to Tensorflow for AI, ML and DL</td>
+            <td colspan="2">Ms.Anusha N</td>
+          </tr>
+          <tr>
+            <td>20IS606</td>
+            <td>CN Lab</td>
+            <td>Computer Networks Lab</td>
+            <td>C1 : SS, TN</td>
+            <td>C2 : SS, MNJ</td>
+          </tr>
+          <tr>
+            <td>20IS607</td>
+            <td>ML Lab</td>
+            <td>Machine Learning Lab</td>
+            <td>C1 : MGR, SU</td>
+            <td>C2 : MGR, JEM</td>
+          </tr>
+          <tr>
+            <td>20IS608</td>
+            <td>Mini Project</td>
+            <td>Mini Project</td>
+            <td>C1 :Dr.Balasubramani R</td>
+            <td>C2 : Ms.Devidas</td>
+          </tr>
+          <tr>
+            <td>20IL002</td>
+            <td>ESD-II</td>
+            <td>Employability Skill Development</td>
+            <td colspan="2">Ms.Sapna S</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </body>
+</html>
