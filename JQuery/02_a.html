@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <title>Click Event-Double Click Event</title>
+</head>
+<script>
+    $(document).ready(function () {
+        $("#singleClick").click(function () {
+            $("#firstPara").css("background-color", "cyan");
+        });
+
+        $("#doubleClick").dblclick(function () {
+            $("#secondPara").text("You have double clicked me");
+            $("#secondPara").css("font-weight","bolder");
+        });
+    });
+</script>
+<style>
+    p {
+        margin: 10px 20px;
+        padding: 20px 40px;
+        border: 2px solid black;
+        background-color: yellow;
+        border-radius: 10px;
+    }
+
+    button {
+        border: 2px solid black;
+        border-radius: 7px;
+        font-size: 20px;
+        padding: 10px 20px;
+        cursor: pointer;
+    }
+</style>
+
+<body>
+    <p id="firstPara">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam expedita maxime omnis enim
+        exercitationem minima perferendis dolor praesentium ea velit!</p>
+    <p id="secondPara">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum suscipit iste aspernatur, et,
+        numquam odit quos quibusdam cupiditate ad nam architecto labore fugiat nesciunt alias ipsam ab. Eaque, nihil
+        nostrum?</p>
+    <button id="singleClick">Single Click</button>
+    <button id="doubleClick">Double Click </button>
+</body>
+
+</html>

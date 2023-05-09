@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <title>SHOW AND HIDE EFFECT</title>
+</head>
+<style>
+    p {
+        border: 3px solid black;
+        font-size: 30px;
+        margin: 50px 60px;
+        padding: 20px 40px;
+        border-radius: 10px;
+        font-weight: bold;
+        background-color: yellow;
+        color: orange;
+
+    }
+
+    button {
+        border: 3px solid black;
+        padding: 10px 20px;
+        margin: 20px auto;
+        display: block;
+        border-radius: 7px;
+        background-color: black;
+        color: white;
+        font-size: 25px;
+        cursor: pointer;
+
+    }
+</style>
+<script>
+    $(document).ready(function () {
+        $("#show").click(function () {
+            $("p").show();
+        });
+        $("#hide").click(function () {
+            $("p").hide();
+        });
+    });
+</script>
+
+<body>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Recusandae debitis accusamus iusto mollitia facere
+        quidem expedita illo et necessitatibus vero!</p>
+    <button id="show">SHOW</button>
+    <button id="hide">HIDE</button>
+</body>
+
+</html>
